@@ -1,9 +1,9 @@
 # winProbabilityCalculator
 ## Matchup calculator using cloudscraped KenPom data
 
-<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/b791212f-0298-4bd1-b73a-b6fc64305db7" />
 
-## Overview
+
+## 🏀 Overview
 The goal of this project is to predict the outcomes of an NCAA college basketball game using reliable, continuously updated data.
 
 Since the official KenPom website is subscription-blocked, I had to use a cloudscraper instead of a normal webpage parser to read in the data. Most websites that are subscription blocked will block requests, and the cloudscraper bypasses such blocks. KenPom in particular uses a software called Cloudflare, which monitors internet traffic and web requests among other things. 
