@@ -34,7 +34,3 @@ I used data scraped directly from the KenPom website. I collected everything on 
 3. Run the streamlit app
    ```bash
    streamlit run winProbability.py
-  
-
-
-
