@@ -12,19 +12,19 @@ I used adjusted offensive/defensive efficiency, adjusted tempo alongside league 
 
 I calculated the win probability by finding the difference in scores and using a normal CDF function from scipy
 
--
+---
 
 ## 📊 Data Source 
 I used data scraped directly from the KenPom website. I collected everything on the main page, but only used offensive/defensive rating, adjusted tempo, and team names for my calculations
 
--
+---
 
 ## 🛠️ Tools and Technologies Used
 - **Languages:** *Python*
 - **Libraries:** *streamlit, cloudscraper, pandas, bs4 (BeautifulSoup), io (StringIO), SciPy, re*
 - **IDE:** *VS Code*
 
--
+---
 
 ## 🚀 How to Run the Project
 1. Clone the repository or copy the code into a Jupyter Notebook or Python file
