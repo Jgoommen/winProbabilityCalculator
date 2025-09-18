@@ -34,3 +34,12 @@ I used data scraped directly from the KenPom website. I collected everything on 
 3. Run the streamlit app
    ```bash
    streamlit run winProbability.py
+
+---
+
+## ⛹🏽‍♂️ Bracket Performance
+I used this program to fill out an entire 2024-2025 March Madness bracket
+- Bracket finished rank 4.5M
+- 82.2%
+- 1250 Pts
+- The national champion calculated was Duke
