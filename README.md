@@ -43,3 +43,6 @@ I used this program to fill out an entire 2024-2025 March Madness bracket
 - 82.2%
 - 1250 Pts
 - The national champion calculated was Duke
+<img width="347" height="409" alt="Screenshot 2025-09-21 at 11 55 51 AM" src="https://github.com/user-attachments/assets/148fedb9-47a4-48b7-aa31-bdd222ddfeeb" />
+
+  
