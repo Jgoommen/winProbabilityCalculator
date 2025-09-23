@@ -2,3 +2,5 @@ cloudscraper
 pandas
 streamlit
 bs4
+scipy
+lxml
