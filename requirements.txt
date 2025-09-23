@@ -1,6 +1,5 @@
 cloudscraper
 pandas
-re
 io
 streamlit
 bs4
